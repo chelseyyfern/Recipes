@@ -1,2 +1,2 @@
-# Recipes
+# Recipe
  Recipe Social Media Website
